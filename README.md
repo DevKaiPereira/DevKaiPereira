@@ -19,9 +19,6 @@
     <p>🔥 Apaixonado por transformar café em <b>código escalável</b></p>
     <p>🎯 Focado em <b>performance e design intuitivo</b></p>
   </td>
-  <td width="50%">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaiPereira&layout=compact&theme=tokyonight&hide_border=true" />
-  </td>
  </tr>
 </table>
 
