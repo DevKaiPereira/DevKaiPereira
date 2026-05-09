@@ -35,7 +35,6 @@
 ## 📊 Performance & Atividade
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DevKaiPereira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="180" src="https://streak-stats.demolab.com?user=DevKaiPereira&theme=tokyonight&hide_border=true"/>
 </p>
 
