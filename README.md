@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Tech Stack
+## ⚡⚡ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,mongodb,docker,git,vscode,maven,spring&theme=dark" />
