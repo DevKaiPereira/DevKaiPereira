@@ -1,122 +1,100 @@
-<!-- TEMPLATE: copie para o README.md de cada projeto e troque o que estiver em MAIÚSCULAS -->
-
 <div align="center">
-
-# NOME DO PROJETO
-
-**Uma frase que explica o que o projeto resolve.**
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/licen%C3%A7a-MIT-blue?style=flat-square" />
-<img src="https://img.shields.io/github/last-commit/DevKaiPereira/NOME-DO-REPO?style=flat-square" />
-
-[🌐 Demo ao vivo](https://LINK-DO-DEPLOY) · [🐞 Reportar bug](https://github.com/DevKaiPereira/NOME-DO-REPO/issues) · [💡 Sugerir melhoria](https://github.com/DevKaiPereira/NOME-DO-REPO/issues)
-
-<!-- Coloque aqui um print ou GIF do projeto funcionando. É o que mais chama atenção. -->
-<img src="./docs/preview.gif" alt="Demonstração do projeto" width="85%" />
-
+  <h1>Olá! Eu sou o Kaique Pereira 👋</h1>
+  <p><strong>Desenvolvedor Full-Stack | Backend & Cloud Enthusiast</strong></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/dev-kaique" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/kaique_dev_/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:contato.kaiquepereira@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 📖 Sobre
+### 🚀 Sobre Mim
 
-Explique em 3 ou 4 linhas:
-- **Qual problema** o projeto resolve
-- **Para quem** ele serve
-- **Por que** você decidiu construí-lo
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela **Universidade Paulista (UNIP)**.
+- 💼 Desenvolvedor Full-Stack focado na criação de **APIs REST robustas**, **microsserviços** e interfaces modernas e responsivas.
+- ⚙️ Experiência prática em arquitetura de backend utilizando **Java (Spring Boot)** e **Go**, além de ecossistema web com **React** e **Next.js**.
+- ☁️ Estudando e aplicando conceitos de **Cloud Engineering** (AWS, Azure) e práticas de **DevOps / CI-CD**.
+- 🛠️ Entusiasta do ambiente de desenvolvimento no **Neovim** / **macOS** para máxima produtividade em terminal.
 
-## ✨ Funcionalidades
+---
 
-- [x] Funcionalidade 1
-- [x] Funcionalidade 2
-- [x] Funcionalidade 3
-- [ ] Próxima funcionalidade planejada
+### 💻 Tech Stack & Ferramentas
 
-## 🛠️ Tecnologias
+#### **Backend & Linguagens**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-| Camada | Tecnologia |
-|---|---|
-| Linguagem | TypeScript |
-| Back-end | Node.js, Express |
-| Banco de dados | PostgreSQL, Prisma |
-| Validação | Zod |
-| Testes | Vitest / Jest |
+#### **Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 🧱 Arquitetura
+#### **Cloud, DevOps & Bancos de Dados**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-```
-src/
-├── controllers/   # recebem a requisição e devolvem a resposta
-├── services/      # regras de negócio
-├── repositories/  # acesso ao banco de dados
-├── middlewares/   # autenticação, tratamento de erros
-├── routes/        # definição das rotas
-└── tests/         # testes automatizados
-```
+#### **Ferramentas de Produtividade**
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 Como rodar
+---
 
-**Pré-requisitos:** Node.js 20+ e npm.
+### 📌 Destaques & Projetos
 
-```bash
-# 1. Clone o repositório
-git clone https://github.com/DevKaiPereira/NOME-DO-REPO.git
-cd NOME-DO-REPO
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">☕ Sistema de Gestão / Documentos</h3>
+      <p>API REST completa desenvolvida em <strong>Java + Spring Boot</strong> com persistência Spring Data JPA, autenticação via Spring Security/API Key, documentação OpenAPI/Swagger e testes unitários.</p>
+      <p><strong>Techs:</strong> Java, Spring Boot, MySQL, Swagger, JUnit.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚡ Automação & Triage (Python)</h3>
+      <p>Aplicação em <strong>Python</strong> para automação de triagem de propostas institucionais com parsing e geração de relatórios PDF estruturados.</p>
+      <p><strong>Techs:</strong> Python, pdfplumber, WeasyPrint, CLI.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💸 Refund App</h3>
+      <p>Aplicação web para reembolso de despesas corporativas, com envio de comprovantes e painel administrativo para aprovação de solicitações.</p>
+      <p><strong>Techs:</strong> TypeScript, React, Tailwind CSS, Node.js.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐹 Projetos & Módulos em Go</h3>
+      <p>Estudos avançados e ferramentas CLI em <strong>Go</strong> explorando mecânica de ponteiros, alta concorrência e alocação eficiente de memória.</p>
+      <p><strong>Techs:</strong> Go (Golang), CLI Tools, Goroutines.</p>
+    </td>
+  </tr>
+</table>
 
-# 2. Instale as dependências
-npm install
+---
 
-# 3. Configure as variáveis de ambiente
-cp .env.example .env
+### 📊 Estatísticas do GitHub
 
-# 4. Rode em desenvolvimento
-npm run dev
-```
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKaiPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaiPereira&layout=compact&theme=dracula&hide=html,css&langs_count=6"/>
+</div>
 
-### Variáveis de ambiente
+---
 
-| Variável | Descrição | Exemplo |
-|---|---|---|
-| `PORT` | Porta do servidor | `3333` |
-| `DATABASE_URL` | URL do banco de dados | `postgresql://...` |
-| `JWT_SECRET` | Chave de autenticação | `sua-chave-secreta` |
-
-## 🔌 Endpoints (se for uma API)
-
-| Método | Rota | Descrição |
-|---|---|---|
-| `POST` | `/users` | Cria um usuário |
-| `POST` | `/sessions` | Autentica o usuário |
-| `GET` | `/refunds` | Lista solicitações |
-| `POST` | `/refunds` | Cria uma solicitação |
-
-## 🧪 Testes
-
-```bash
-npm run test
-```
-
-## 📚 O que aprendi
-
-- Aprendizado técnico 1 (ex.: organizar o projeto em camadas)
-- Aprendizado técnico 2 (ex.: validar dados com Zod)
-- Desafio que enfrentei e como resolvi
-
-## 🗺️ Próximos passos
-
-- [ ] Adicionar testes automatizados
-- [ ] Configurar CI com GitHub Actions
-- [ ] Fazer deploy
-
-## 👤 Autor
-
-**Kaique Pereira**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-kaique)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DevKaiPereira)
-
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
+<div align="center">
+  <p>💡 <em>"Talk is cheap. Show me the code."</em> — Linus Torvalds</p>
+</div>
