@@ -98,7 +98,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <p>💡 <em>"Talk is cheap. Show me the code."</em> — Linus Torvalds</p>
-</div>
