@@ -95,9 +95,7 @@
 ```text
 kaique@github ~ $ gh stats --user DevKaiPereira
 
-  Commits (2026)   ████████████████░░░░   +1.2k contributions
-  Top Languages    TypeScript · Java · Go · Python · React
-  Main Focus       Backend APIs, Microservices & Full-Stack Web
-  Current Streak   Active daily coding
-
----
+  Commits (2026)    ████████████████░░░░    +1.2k contributions
+  Top Languages     TypeScript · Java · Go · Python · React
+  Main Focus        Backend APIs, Microservices & Full-Stack Web
+  Current Streak    Active daily coding
