@@ -90,11 +90,14 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevKaiPereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKaiPereira&layout=compact&theme=dracula&hide=html,css&langs_count=6"/>
-</div>
+```text
+kaique@github ~ $ gh stats --user DevKaiPereira
+
+  Commits (2026)   ████████████████░░░░   +1.2k contributions
+  Top Languages    TypeScript · Java · Go · Python · React
+  Main Focus       Backend APIs, Microservices & Full-Stack Web
+  Current Streak   Active daily coding
 
 ---
