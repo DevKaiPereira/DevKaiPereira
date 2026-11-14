@@ -1,12 +1,12 @@
 <div align="center">
   <h1>Olá! Eu sou o Kaique Pereira 👋</h1>
   <p><strong>Desenvolvedor Full-Stack | Backend & Cloud Enthusiast</strong></p>
-  
+
   <p>
-    <a href="https://linkedin.com/in/dev-kaique" target="_blank">
+    <a href="https://linkedin.com/in/dev-kaique">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/kaique_dev_/" target="_blank">
+    <a href="https://www.instagram.com/kaique_dev_/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:contato.kaiquesouzapereira63@gmail.com">
@@ -90,12 +90,12 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Painel & Atividade
 
-```text
-kaique@github ~ $ gh stats --user DevKaiPereira
+<div align="center">
 
-  Commits (2026)    ████████████████░░░░    +1.2k contributions
-  Top Languages     TypeScript · Java · Go · Python · React
-  Main Focus        Backend APIs, Microservices & Full-Stack Web
-  Current Streak    Active daily coding
+| 🚀 Status do Perfil | 📈 Métricas de Código | 🛠️ Foco Técnico |
+| :--- | :--- | :--- |
+| • **Status:** `Ativo & Codando`<br>• **Foco:** `Backend & Microservices`<br>• **Local:** `São Paulo, BR` | • **Contribuições:** `+1.2k (2026)`<br>• **Linguagens Principais:** `Java`, `Go`, `TS`<br>• **Consistência:** `Alta atividade diária` | • **Arquitetura:** `REST APIs & Cloud`<br>• **Ambiente:** `macOS + Neovim`<br>• **Stack:** `Spring Boot / React` |
+
+</div>
